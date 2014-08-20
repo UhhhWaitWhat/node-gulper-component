@@ -1,0 +1,23 @@
+{
+  "name": "gulper-component",
+  "version": "0.0.1",
+  "description": "A gulper plugin to load component modules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulAvery/node-gulper-component.git"
+  },
+  "keywords": [
+    "gulper",
+    "gulp",
+    "component"
+  ],
+  "author": "Florian Albertz",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^3.1.7",
+    "component-builder": "^1.1.10",
+    "component-resolver": "^1.1.8",
+    "gulp-util": "^3.0.0"
+  }
+}
